@@ -2,9 +2,9 @@
 class Redactr < Formula
   desc "Keep obscured secrets alongside plaintext"
   homepage ""
-  url "https://github.com/dhoelle/redactr/releases/download/v0.1.14/redactr_0.1.14_Darwin_x86_64.tar.gz"
-  version "0.1.14"
-  sha256 "e68ae8d4663a59dfdda12e18d023db7d2ead5f73147eaf68369b6472f9d49bd0"
+  url "https://github.com/dhoelle/redactr/releases/download/v0.1.15/redactr_0.1.15_Darwin_x86_64.tar.gz"
+  version "0.1.15"
+  sha256 "45ed93848af9bb0eef48e25b88124e59012b7efacef3c224721197ee70973bbb"
 
   def install
     bin.install "redactr"
