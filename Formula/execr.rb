@@ -2,9 +2,9 @@
 class Execr < Formula
   desc "Keep obscured secrets alongside plaintext"
   homepage ""
-  url "https://github.com/dhoelle/execr/releases/download/v0.1.0/execr_0.1.0_Darwin_x86_64.tar.gz"
-  version "0.1.0"
-  sha256 "0641b60a8f2835b27d775014482f6de3b8e710c606ee92c5865bc585c6ffde29"
+  url "https://github.com/dhoelle/execr/releases/download/v0.1.1/execr_0.1.1_Darwin_x86_64.tar.gz"
+  version "0.1.1"
+  sha256 "4ead61c5bc5de270cb1136b4e1a91e6e7daca05c674ad26010b2c1da1e13fc8e"
 
   def install
     bin.install "execr"
