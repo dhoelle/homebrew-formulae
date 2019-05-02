@@ -4,7 +4,7 @@ class Execr < Formula
   homepage ""
   url "https://github.com/dhoelle/execr/releases/download/v0.1.1/execr_0.1.1_Darwin_x86_64.tar.gz"
   version "0.1.1"
-  sha256 "4ead61c5bc5de270cb1136b4e1a91e6e7daca05c674ad26010b2c1da1e13fc8e"
+  sha256 "f45b1dc28a7f516be3ea4abfcad77d05c85ed4d75b4dd02661f8efb7324dfc7b"
 
   def install
     bin.install "execr"
